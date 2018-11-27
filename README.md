@@ -1,5 +1,7 @@
 ﻿# vcpkg.nuget-example
 
+[![Build status](https://b3ngr33ni3r.visualstudio.com/vcpkg.nuget/_apis/build/status/vcpkg.nuget-example-CI)](https://b3ngr33ni3r.visualstudio.com/vcpkg.nuget/_build/latest?definitionId=5)
+
 An example __msbuild__ `c++` project that leverages [vcpkg.nuget](https://github.com/bengreenier/vcpkg.nuget) for dependencies
 
 ## Usage
